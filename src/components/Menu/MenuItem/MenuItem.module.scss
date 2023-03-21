@@ -1,0 +1,17 @@
+.active {
+  background-color: #046059;
+  border-radius: 0;
+  font-weight: bold;
+  font-family: "GothamMedium" !important;
+  transition: 0.3s ease;
+  @media only screen and (max-width: 768px) {
+    background-color: #fff !important;
+  }
+}
+
+.active a {
+  color: #fff !important;
+  @media only screen and (max-width: 768px) {
+    color: #046059 !important;
+  }
+}

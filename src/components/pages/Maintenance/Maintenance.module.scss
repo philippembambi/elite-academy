@@ -1,0 +1,67 @@
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+  @media only screen and (max-width: 768px) {
+    flex-direction: column;
+  }
+}
+
+.panel,
+.maintenance_gif {
+  height: 100%;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  @media only screen and (max-width: 768px) {
+    height: 50%;
+    width: 100%;
+  }
+}
+
+.maintenance_img {
+  width: 30rem;
+  height: auto;
+  object-fit: cover;
+  @media only screen and (max-width: 768px) {
+    width: 20rem;
+  }
+}
+
+.panel {
+  background-color: #046059;
+  color: #fff;
+}
+
+.content {
+  text-align: center;
+  @media only screen and (max-width: 768px) {
+    width: 90%;
+    margin: 0 auto;
+  }
+}
+
+.heading {
+  font-family: "GothamMedium";
+  text-align: center;
+  margin: 1rem 0;
+  @media only screen and (max-width: 768px) {
+    font-size: 1.5rem;
+  }
+}
+
+.paragraph {
+  font-family: "GothamRegular";
+  text-align: center;
+  margin: 0.5rem 0;
+}
+
+.maintenance_logo {
+  width: 10rem;
+}

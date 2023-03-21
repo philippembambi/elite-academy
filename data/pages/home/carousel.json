@@ -1,0 +1,29 @@
+[
+  {
+    "title": "carousel.home.one.title",
+    "subtitle": "carousel.home.one.subtitle",
+    "desc": "carousel.home.one.desc",
+    "image": "images/carousel1.png",
+    "buttontext": "carousel.home.one.button-text",
+    "buttonUrl": "/enregistrement",
+    "students": 200
+  },
+  {
+    "title": "carousel.home.two.title",
+    "subtitle": "carousel.home.two.subtitle",
+    "desc": "carousel.home.two.desc",
+    "image": "images/carousel2.png",
+    "buttontext": "carousel.home.two.button-text",
+    "buttonUrl": "/enregistrement",
+    "students": 245
+  },
+  {
+    "title": "carousel.home.three.title",
+    "subtitle": "carousel.home.three.subtitle",
+    "desc": "carousel.home.three.desc",
+    "image": "images/carousel3.png",
+    "buttontext": "carousel.home.three.button-text",
+    "buttonUrl": "/enregistrement",
+    "students": 230
+  }
+]

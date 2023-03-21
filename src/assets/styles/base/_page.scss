@@ -1,0 +1,57 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+* {
+  line-height: 1rem !important;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  line-height: 1.3rem !important;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+li {
+  list-style: none;
+}
+
+@font-face {
+  font-family: "GothamMedium";
+  font-weight: 100 900;
+  font-display: swap;
+  font-style: normal;
+  font-named-instance: "Medium";
+  src: url(/fonts/GothamMedium.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "GothamLight";
+  font-weight: 100 900;
+  font-display: swap;
+  font-style: normal;
+  font-named-instance: "Light";
+  src: url(/fonts/GothamLight.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "GothamRegular";
+  font-weight: 100 900;
+  font-display: swap;
+  font-style: normal;
+  font-named-instance: "Regular";
+  src: url(/fonts/GothamLight.woff2) format("woff2");
+}

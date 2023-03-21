@@ -1,0 +1,28 @@
+{
+  "sitename": "elite",
+  "menu-item.label.about": "A propos de nous",
+  "menu-item.label.contacts": "Contacts",
+  "menu-item.label.home": "Accueil",
+  "menu-item.label.magasine": "Magazine Elite",
+  "menu-item.label.partners": "Nos partenaires",
+  "menu-item.label.academy": "Académie des élites",
+  
+  "carousel.home.one.title": "Choisis d'être le meilleur!",
+  "carousel.home.three.title": "Découvrez Arsitote Diasonama",
+
+  "carousel.home.one.subtitle": "Des formations de qualités qui vous distinguent dans le monde professionel",
+  "carousel.home.two.subtitle": "Une académie destinée à dépasser les limites et vous amener aux standards internationaux",
+  "carousel.home.three.subtitle": "Lauréats de la république EXETAT 2010",
+
+  "carousel.home.one.desc": "Deviens un génie et libère ton esprit créatif en suivant la meilleure des formations avec Élite!",
+  "carousel.home.two.desc": "Lorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum Lorem ipsum",
+  "carousel.home.three.desc": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsumLorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
+
+  "carousel.home.one.button-text": "Démarrer votre formations",
+  "carousel.home.two.button-text": "En savoir plus",
+  "carousel.home.three.button-text": "En savoir plus",
+
+  "content.homepage.elite.title": "Nos",
+  "content.homepage.elite.suffix": "FORMATIONS",
+  "content.homepage.elite.decription": "NOUS COACHONS, ENCADRONS ET ENCOURAGEONS DES GÉNIES CONGOLAIS À LIBÉRER ET EXPLOITER LEUR ESPRIT CRÉATIF"
+}

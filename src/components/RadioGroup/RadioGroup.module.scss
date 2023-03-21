@@ -1,0 +1,21 @@
+.required {
+  color: red;
+  margin: 0 0.2rem;
+}
+
+.form__group {
+  margin: 0.7rem 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.form__group_children {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.form__label {
+  margin: 1.6rem 0;
+  font-weight: 300;
+  font-size: 14px;
+}

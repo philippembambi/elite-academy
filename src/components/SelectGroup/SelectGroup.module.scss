@@ -1,0 +1,24 @@
+.form__group {
+  margin: 0.7rem 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.form__label {
+  margin: 0.4rem 0;
+  font-weight: 300;
+  font-size: 14px;
+}
+
+.form__control {
+  height: 2.5rem;
+  border-radius: 0.3rem;
+  border: 0;
+  box-shadow: 0 0 0.3rem 0 rgb(0 0 0 / 20%);
+  padding: 0 0 0 0.5rem;
+  background-color: #fff;
+}
+
+.required {
+  color: red;
+}
